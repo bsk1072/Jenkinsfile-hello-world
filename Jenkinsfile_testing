@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World from Testing Jenkinsfile'
+                echo 'Hello World from Testing Jenkinsfile - A Simple Update for Testing PollScm'
             }
         }
     }
